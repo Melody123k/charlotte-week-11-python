@@ -1,0 +1,13 @@
+metric,value
+las_input_rows,9
+scada_input_rows,9
+merged_rows,9
+engineered_rows,9
+matched_rows,9
+las_only_rows,0
+scada_only_rows,0
+missing_pressure_psi,1
+missing_flow_m3_h,1
+missing_temperature_c,0
+missing_gamma_api,0
+missing_density_g_cm3,0
